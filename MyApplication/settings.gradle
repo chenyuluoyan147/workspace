@@ -1,0 +1,2 @@
+include ':app', ':myapplication2', ':smartbluetooch', ':baidumap', ':baidusearch', ':updatedemo', ':youmidemo', ':youmidemo', ':samplesearch', ':txtdemo', ':loadingdrawable', ':loadingapp', ':httpunit', ':shipingdemo', ':x5demo',  ':x5demo', ':x5sample', ':x5demo', ':app3', ':easymodule', ':easybookmodule', ':panandseed', 'number'
+
